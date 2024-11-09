@@ -18,9 +18,6 @@
     <ClCompile Include="thread_examples.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="thread_management.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

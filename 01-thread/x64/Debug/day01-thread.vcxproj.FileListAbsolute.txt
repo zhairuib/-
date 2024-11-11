@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\laqubingfa\boostasio-learn\concurrent\day01-thread\x64\Debug\day01-thread.exe
+C:\Users\Administrator\Desktop\bingfa\Concurrent-programming\1-并发编程线程管控\x64\Debug\day01-thread.exe
